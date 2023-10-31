@@ -180,17 +180,17 @@ text-shadow: 0px 2.5px 5px rgba(var(--primary-darkest), 0.8) !important;
 }
 
 .Search-results .fa-search {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/magnify.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/magnify.svg);
 height: 20px;
 width: 20px;
 }
 
 .dark .Search-results .fa-search {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/magnify.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/magnify.svg);
 }
 
 .DiscussionListItem .fa-reply {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/reply.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/reply.svg);
 height: 14px;
 width: 14px;
 opacity: 0.5;
@@ -198,11 +198,11 @@ margin-bottom: -3px;
 }
 
 .dark .DiscussionListItem .fa-reply {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/reply.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/reply.svg);
 }
 
 .item-markAllAsRead .icon {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/check-all.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/check-all.svg);
 height: 24px;
 width: 24px;
 margin-top: -2px;
@@ -210,11 +210,11 @@ margin-left: -11px;
 }
 
 .item-markAllAsRead:hover .icon, .item-markAllAsRead:focus .icon, .item-markAllAsRead:active .icon {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/check-all.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/check-all.svg);
 }
 
 .dark .item-markAllAsRead:hover .icon, .dark .item-markAllAsRead:focus .icon, .dark .item-markAllAsRead:active .icon {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/check-all.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/check-all.svg);
 }
 
 .item-markAllAsRead:active .icon {
@@ -222,35 +222,35 @@ opacity: 0.5;
 }
 
 .Search-input:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/magnify.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/magnify.svg);
 padding-top: 11.5px;
 padding-left: 10px;
 }
 
 .Dropdown-toggle .fa-caret-down {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/menu-down.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/menu-down.svg);
 margin: -20px -8px -6px 5px;
 height: 24px;
 width: 24px;
 }
 
 .Dropdown-toggle:hover .fa-caret-down, .Dropdown-toggle:focus .fa-caret-down, .Dropdown-toggle:active .fa-caret-down, .Dropdown-toggle[aria-expanded="true"] .fa-caret-down {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/menu-down.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/menu-down.svg);
 }
 
 .dark .Dropdown-toggle:hover .fa-caret-down, .dark .Dropdown-toggle:focus .fa-caret-down, .dark .Dropdown-toggle:active .fa-caret-down, .dark .Dropdown-toggle[aria-expanded="true"] .fa-caret-down {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/menu-down.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/menu-down.svg);
 }
 
 .Dropdown-menu .fa-check {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/check.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/check.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-toggle .fa-ellipsis-v {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/dots-vertical.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/dots-vertical.svg);
 height: 24px;
 width: 24px;
 margin-left: -11px;
@@ -258,23 +258,23 @@ margin-top: -2px;
 }
 
 .dark .Dropdown-toggle .fa-ellipsis-v {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/dots-vertical.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/dots-vertical.svg);
 }
 
 .DiscussionListItem .open>.Dropdown-toggle .fa-ellipsis-v {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/dots-vertical.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/dots-vertical.svg);
 }
 
 .dark .DiscussionListItem .open>.Dropdown-toggle .fa-ellipsis-v {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/dots-vertical.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/dots-vertical.svg);
 }
 
 .dark .Dropdown-menu .fa-check {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/check.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/check.svg);
 }
 
 .Hero-close .icon {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/close.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/close.svg);
 height: 24px;
 width: 24px;
 margin-top: -2px;
@@ -282,102 +282,102 @@ margin-left: -11px;
 }
 
 .dark .Hero-close .icon {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/close.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/close.svg);
 }
 
 .Dropdown-menu .fa-pencil-alt {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/pencil.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/pencil.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .dark .Dropdown-menu .fa-pencil-alt {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/pencil.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/pencil.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-eye {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/eye.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/eye.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .dark .Dropdown-menu .fa-eye {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/eye.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/eye.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-tag {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/tag.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/tag.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .dark .Dropdown-menu .fa-tag {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/tag.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/tag.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-code-branch {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/call-merge.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/call-merge.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .dark .Dropdown-menu .fa-code-branch {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/call-merge.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/call-merge.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-thumbtack {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/pin.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/pin.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .dark .Dropdown-menu .fa-thumbtack {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/pin.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/pin.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-lock {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/lock.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/lock.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .dark .Dropdown-menu .fa-lock {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/lock.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/lock.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-trash-alt, .Dropdown-menu .fa-times {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/other/delete.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/other/delete.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
 }
 
 .Dropdown-menu .fa-reply {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/restore.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/restore.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
@@ -385,7 +385,7 @@ opacity: 1;
 }
 
 .dark .Dropdown-menu .fa-reply {
-background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/restore.svg);
+background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/restore.svg);
 height: 24px;
 width: 24px !important;
 margin-left: -31px !important;
@@ -405,15 +405,15 @@ background: rgba(var(--light), 0.4);
 }
 
 .item-discussion-views .fa-eye:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/eye.svg) !important;
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/eye.svg) !important;
 }
 
 .dark .item-discussion-views .fa-eye:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/eye.svg) !important;
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/eye.svg) !important;
 }
 
 .DiscussionListItem-count:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/message.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/message.svg);
 height: 34px;
 width: 44px;
 background: rgba(var(--dark), 0.4);
@@ -423,23 +423,23 @@ padding: 5px 10px;
 }
 
 .unread .DiscussionListItem-count:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/message-badge.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/message-badge.svg);
 }
 
 .dark .unread .DiscussionListItem-count:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/message-badge.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/message-badge.svg);
 }
 
 .unread .DiscussionListItem-count:hover:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/check.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/check.svg);
 }
 
 .dark .unread .DiscussionListItem-count:hover:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/check.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/check.svg);
 }
 
 .dark .DiscussionListItem-count:before {
-content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/message.svg);
+content: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/message.svg);
 background: rgba(var(--light), 0.4);
 }
 
@@ -448,43 +448,43 @@ opacity: 0.5;
 }
 
 .item-nav .fa-comments {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/message-text.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/message-text.svg);
 }
 
 .item-nav .fa-address-book {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/account-multiple.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/account-multiple.svg);
 }
 
 .item-nav .fa-th-large {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/tag-multiple.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/tag-multiple.svg);
 }
 
 .item-nav .fa-user {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/exyq.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/exyq.svg);
 }
 
 .item-nav .fa-discord {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/discord.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/discord.svg);
 }
 
 .item-nav .fa-bullhorn, .Hero-title .fa-bullhorn {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/bullhorn.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/bullhorn.svg);
 }
 
 .item-nav .fa-check-square, .Hero-title .fa-check-square {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/message-check.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/message-check.svg);
 }
 
 .item-nav .fa-check-circle, .Hero-title .fa-check-circle {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/check-decagram.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/check-decagram.svg);
 }
 
 .item-nav .fa-comment-alt, .Hero-title .fa-comment-alt {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/forum.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/forum.svg);
 }
 
 .item-nav .fa-ellipsis-h, .Hero-title .fa-ellipsis-h {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/dots-horizontal.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/dots-horizontal.svg);
 }
 
 .TagLabel .icon {
@@ -494,92 +494,92 @@ margin-bottom: -3px;
 }
 
 .TagLabel .fa-bullhorn {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/bullhorn.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/bullhorn.svg);
 }
 
 .TagLabel .fa-check-square {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/message-check.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/message-check.svg);
 }
 
 .TagLabel .fa-check-circle {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/check-decagram.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/check-decagram.svg);
 }
 
 .TagLabel .fa-comment-alt {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/forum.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/forum.svg);
 }
 
 .TagLabel .fa-ellipsis-h {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/dots-horizontal.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/dots-horizontal.svg);
 }
 
 .dark .TagLabel .fa-bullhorn {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/bullhorn.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/bullhorn.svg);
 }
 
 .dark .TagLabel .fa-check-square {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/message-check.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/message-check.svg);
 }
 
 .dark .TagLabel .fa-check-circle {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/check-decagram.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/check-decagram.svg);
 }
 
 .dark .TagLabel .fa-comment-alt {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/forum.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/forum.svg);
 }
 
 .dark .TagLabel .fa-ellipsis-h {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/dots-horizontal.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/dots-horizontal.svg);
 }
 
 .ForumStatistics .fa-chart-bar {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/dark/chart-box.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/dark/chart-box.svg);
   margin-bottom: -5px;
 }
 
 .dark .item-nav .fa-comments {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/message-text.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/message-text.svg);
 }
 
 .dark .item-nav .fa-address-book {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/account-multiple.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/account-multiple.svg);
 }
 
 .dark .item-nav .fa-th-large {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/tag-multiple.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/tag-multiple.svg);
 }
 
 .dark .item-nav .fa-user {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/exyq.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/exyq.svg);
 }
 
 .dark .item-nav .fa-discord {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/discord.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/discord.svg);
 }
 
 .dark .item-nav .fa-bullhorn, .dark .Hero-title .fa-bullhorn {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/bullhorn.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/bullhorn.svg);
 }
 
 .dark .item-nav .fa-check-square, .dark .Hero-title .fa-check-square {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/message-check.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/message-check.svg);
 }
 
 .dark .item-nav .fa-check-circle, .dark .Hero-title .fa-check-circle {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/check-decagram.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/check-decagram.svg);
 }
 
 .dark .item-nav .fa-comment-alt, .dark .Hero-title .fa-comment-alt {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/forum.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/forum.svg);
 }
 
 .dark .item-nav .fa-ellipsis-h, .dark .Hero-title .fa-ellipsis-h {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/dots-horizontal.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/dots-horizontal.svg);
 }
 
 .dark .ForumStatistics .fa-chart-bar {
-  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/assets/new-icons/light/chart-box.svg);
+  background-image: url(https://raw.githubusercontent.com/Drama-DOT-gg/assets/main/new-icons/light/chart-box.svg);
   margin-bottom: -5px;
 }
 
