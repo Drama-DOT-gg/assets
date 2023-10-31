@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1050 2100">
+  <g id="EXYQ" data-name="EXYQ" clip-path="url(#EXYQ)">
+    <g id="Signet" transform="translate(0 0.27)">
+      <path id="Bottom" d="M250,450V782.023C250,850,300,870,350,840L900,510c50-30,100-110,100-160V0Z" transform="translate(50 1200)" fill="rgba(23, 22, 48)"/>
+      <path id="Middle" d="M250,450V900l750-450V0Z" transform="translate(-250 780)" fill="rgba(23, 22, 48)"/>
+      <g id="Top">
+        <path id="Dark" d="M-50,730v350L700,630V280c0-50-50-70-100-40L50,570C0,600-50,680-50,730Z" transform="translate(349.999 -180)" fill="rgba(23, 22, 48)"/>
+        <path id="Light" d="M100,640V990L700,630V280c0-50-50-70-100-40L200,480C150,510,100,590,100,640Z" transform="translate(199.999 -90)" fill="rgba(23, 22, 48)"/>
+        <path id="White" d="M250,550V900L700,630V280c0-50-50-70-100-40L350,390C300,420,250,500,250,550Z" transform="translate(50)" fill="rgba(23, 22, 48, 0.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>
